@@ -3,7 +3,7 @@ import TipTap from '../app/editor/page';
 export default function Home() {
   return (
     <main>
-      <div className='editor'>
+      <div className='h-screen w-screen'>
         <TipTap />
         
       </div>
